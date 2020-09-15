@@ -1,4 +1,4 @@
-# docker-mysql--
+# play-with-docker-mysql-
 play-with-docker で試す
 
 ## code server の用意
